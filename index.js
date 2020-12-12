@@ -12,7 +12,7 @@ class Circle {
   }
   
   get circumference() {
-    
+    return this.pi * diameter
   }
   
   get area() {
